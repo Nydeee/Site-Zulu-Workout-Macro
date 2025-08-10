@@ -9,3 +9,5 @@
 
 # Extra Info
 When you open up the macro for a second time, the macro saves where you put your search area (red box) last time. However, if you don't see that red box upon opening up the macro do not be confused, it's normal, the red box will re-appear once you toggle the macro again. 
+
+A new file called "BenchPressBot" will open, don't be scared this is simply just there to save where you entered your search area (red box) from the last time you used it.
